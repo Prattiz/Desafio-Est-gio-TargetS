@@ -1,0 +1,17 @@
+A sequência aumenta em 2 a cada passo.
+a) 9  
+
+Cada número é o dobro do anterior.
+b) 128 
+
+A sequência é formada pelos quadrados dos números naturais
+c) 49  
+
+A sequência é formada pelos quadrados dos números pares.
+d) 100  
+
+Esta é a sequência de Fibonacci
+e) 13  
+
+A sequência é composta por números que contêm o dígito '2' ou começam a partir de 10
+f) 20
