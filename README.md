@@ -8,10 +8,10 @@ Este repositório contém as soluções para o desafio técnico fornecido pela T
 ### Questão 1 ✅
 **Java** 
 ### Questão 2 ✅
- **Python** 
+**Java** 
 ### Questão 3 ✅
- **C#**
+ **Python**
 ### Questão 4 ✅    
- **txt**
+ **JavaScript**
 ### Questão 5 ✅    
- **txt**
+ **C#**
